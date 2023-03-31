@@ -1,0 +1,37 @@
+[PROJECT]
+
+[RP:MODELO - COPIA]
+1=
+
+[RP:MODELOALONSO_EQUILIBRIO_TE_RESCTIEQ]
+1=
+
+[RP:MODELOALONSO_EQUILIBRIO_TE_RESCTEQ]
+1=
+
+[RP:MODELOTESIS - COPIA]
+1=
+
+[RP:POLLUTIONTRADING]
+1=
+
+[RP:MODELOTESIS]
+1=
+
+[MRUFILES]
+1=D:\carlo\Documents\Maestria\Aplicacion_de_la_Teoria_de_Juegos_en_la_Estrategia_de_Intercambio_de_Creditos_Contaminantes\Modelos\Alonso\ModeloTesis.lst
+2=D:\carlo\Documents\Maestria\Aplicacion_de_la_Teoria_de_Juegos_en_la_Estrategia_de_Intercambio_de_Creditos_Contaminantes\Modelos\Alonso\ModeloTesis.gms
+3=D:\carlo\Documents\Maestría\Aplicación de la Teoría de Juegos en el Intercambio de Créditos Contaminantes\Modelos\Alonso\ModeloTesis.gms
+4=D:\carlo\Documents\Maestría\Aplicación de la Teoría de Juegos en el Intercambio de Créditos Contaminantes\Modelos\Alonso\ModeloTesis.lst
+5=D:\carlo\Documents\Maestría\Aplicación de la Teoría de Juegos en el Intercambio de Créditos Contaminantes\Modelos\Alonso\ModeloAlonso_Equilibrio_TE_resCTeq.gms
+6=D:\carlo\Documents\Maestría\Aplicación de la Teoría de Juegos en el Intercambio de Créditos Contaminantes\Modelos\Alonso\ModeloAlonso_Equilibrio_TE_resCTIeq.gms
+7=D:\carlo\Documents\Maestría\Aplicación de la Teoría de Juegos en el Intercambio de Créditos Contaminantes\Modelos\Alonso\ModeloAlonso_Equilibrio_TE_resCTeq.lst
+
+[OPENWINDOW_1]
+FILE0=D:\carlo\Documents\GitHub\Pollution-Trading\PollutionTrading.gms
+FILE1=D:\carlo\Documents\GitHub\Pollution-Trading\PollutionTrading.gms
+MAXIM=1
+TOP=50
+LEFT=50
+HEIGHT=400
+WIDTH=400
